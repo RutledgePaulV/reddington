@@ -1,4 +1,4 @@
-(defproject org.clojars.rutledgepaulv/reddington "0.1.0-SNAPSHOT"
+(defproject org.clojars.rutledgepaulv/reddington "0.1.0"
 
   :description
   "A collection of reader tags for enhanced local development."
