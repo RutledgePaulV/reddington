@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/RutledgePaulV/reddington.svg?branch=develop)](https://travis-ci.org/RutledgePaulV/reddington)
+[![Build Status](https://travis-ci.org/RutledgePaulV/reddington.svg?branch=master)](https://travis-ci.org/RutledgePaulV/reddington)
 [![Clojars Project](https://img.shields.io/clojars/v/org.clojars.rutledgepaulv/reddington.svg)](https://clojars.org/org.clojars.rutledgepaulv/reddington)
 
 ### Reddington
