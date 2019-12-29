@@ -5,15 +5,25 @@
 
 > As a rule, I consider jealousy to be a base emotion, but in this case it's quite endearing. - Raymond Reddington
 
+___
+
 ### What
 A collection of reader tags for enhanced local development.
 
+___
 
 ### Install
 
+Merge the following into your ~/.lein/profiles.clj file.
+
 ```clojure
-[org.clojars.rutledgepaulv/reddington "0.1.0"]
+{:user 
+ {:dependencies [[org.clojars.rutledgepaulv/reddington "0.1.0"]]
+  :jvm-opts     ["-Djdk.attach.allowAttachSelf"]
+  :injections   [(require 'reddington.core)]}}
 ```
+
+___
 
 ### Examples
 
